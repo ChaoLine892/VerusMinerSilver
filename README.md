@@ -2,6 +2,7 @@
 Mining verus on your smartphone  
 Support devices aarch64.  
 armv7 no supported  
+based on VerusMiner9000
 
 The paid version without fee is already available  
 https://t.me/VerusMiner_Silver  
