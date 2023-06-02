@@ -4,5 +4,6 @@ Support devices aarch64.
 armv7 no supported  
 
 The paid version without fee is already available  
-https://t.me/VerusMiner_Silver
+https://t.me/VerusMiner_Silver  
+  
 Free version with fee in develop...
